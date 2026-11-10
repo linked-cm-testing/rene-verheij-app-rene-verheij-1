@@ -6,7 +6,12 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "rene-verheij-1-assets": {
+        "repo": "https://github.com/linked-cm-testing/rene-verheij-assets-rene-verheij-1.git"
+      }
+    }
   },
   "author": {
     "name": "",
